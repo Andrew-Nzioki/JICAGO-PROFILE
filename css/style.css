@@ -222,7 +222,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-color: #e05306;
+    background-color: #0E2954;
     height: auto;
     padding-top: 15px;
     padding-bottom: 5px;
@@ -445,7 +445,7 @@ button {
     font-size: 16px;
     color: #ffffff;
     border-radius: 5px;
-    background-color: #e05306;
+    background-color: #0639e0;
     height: 50px;
     font-weight: bold;
     margin-top: 40px;
@@ -456,7 +456,7 @@ button {
 
 .about_bt a {
     color: #ffffff;
-    background-color: #e05306;
+    background-color: #1806e0;
 }
 
 .about_bt a:hover {
@@ -642,7 +642,7 @@ button {
 .henrry_taital {
     width: 100%;
     float: left;
-    color: #e07c06;
+    color: #E1AEFF;
     text-align: center;
     font-size: 18px;
     margin-left: 0px;
@@ -668,7 +668,7 @@ button {
 .contact_section {
     width: 100%;
     float: left;
-    background-color: #e05306;
+    background-color: #06e068;
     height: auto;
 }
 
